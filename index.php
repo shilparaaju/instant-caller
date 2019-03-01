@@ -1,2 +1,1 @@
-<?php include_once("index.html"); 
-      include_once("gotoapp.html")?>
+<?php include_once("index.html"); ?>
